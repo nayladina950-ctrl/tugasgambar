@@ -1,0 +1,11 @@
+ nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+  }
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
